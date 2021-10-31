@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    background-color: palegoldenrod;
+    font-family: fantasy;
+    color: aquamarine;
+}
+img{
+    width:300px;
+    height: 300px;
+    border: 5px grey solid;
+}
+#c{
+    margin-bottom: 30px;
+}
+#myCarousel{
+    background-color: deepskyblue;
+}
+p{
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
